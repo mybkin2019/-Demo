@@ -1,7 +1,7 @@
 # -GuessGameDemoInSwift5
 Swift5, 简单猜猜游戏 Demo, 缺少组件封装, 能跑就行, 还要什么自行车, 不是吗?
 
-## Features - 特性
+## Features
 - 题目板块有毛玻璃效果 (.blur 实现)
 - 进度条有动效哟
 - 小编实在编不出来了, 就酱叭
